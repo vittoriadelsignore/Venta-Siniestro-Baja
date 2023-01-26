@@ -22,4 +22,4 @@ El primer paso fue hacer un dashboard separando las 3 principales variables, emp
 Adicionalmente, la provincia con más ventas fue Catamarca, ya que allí está la casa matriz de la compañía. Los clientes tienen un rango etario que va entre 46-60 años en su mayoría, es relativamente equitativo entre hombres y mujeres.
 Compran de forma indistinta los diferentes planes que ofrece la compañía, y prefieren comprar en los canales denominados A y Z:
 
-![Gráficos de Ventas](https://https://github.com/vittoriadelsignore/Venta-Siniestro-Baja/blob/master/TableroVentas.png)
+![Gráficos de Ventas](https://github.com/vittoriadelsignore/Venta-Siniestro-Baja/blob/master/TableroVentas.png)
