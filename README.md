@@ -26,4 +26,4 @@ Compran de forma indistinta los diferentes planes que ofrece la compañía, y pr
 
 Se siguió desarrollando en dashboard, pero en distintas hojas para ver diferentes variables, primero por separado. Entonces se hizo otro análisis de Siniestros. El producto con más siniestros es "Robo en Cajeros", a diferencia de la venta, que se centraba en productos de salud. Nuevamente la provincia con mayor volumen es Catamarca, lo cual tiene sentido, ya que también es la provincia con más ventas. Y algo a destacar es que el género con más siniestralidad es el femenino, principalmente los grupos de 36-45 y 18-24; y en contraparte, el resto de grupos tiene mayoría de género masculino. Los canales donde se reportan los siniestros están concentrados en los denominados P y C:
 
- ![Gráficos de Siniestros] (https://github.com/vittoriadelsignore/Venta-Siniestro-Baja/blob/master/TableroSiniestros.png)
+ ![Gráficos de Siniestros](https://github.com/vittoriadelsignore/Venta-Siniestro-Baja/blob/master/TableroSiniestros.png)
